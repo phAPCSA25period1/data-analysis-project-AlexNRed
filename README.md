@@ -205,6 +205,8 @@ Add a UML diagram showing:
 - Visibility (private/public)
 
 Save as `UML_Diagram.png` or `.pdf` in the repo.
+[Uploading project data analysis…]()
+<img width="632" height="391" alt="project data analysis drawio" src="https://github.com/user-attachments/assets/b545afa7-f53c-4063-97ce-db8c9352c403" />
 
 ---
 
