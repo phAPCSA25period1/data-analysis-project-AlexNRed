@@ -66,13 +66,12 @@ UML_Diagram.png (or UML_Diagram.pdf)
 
 ## 🧩 Step 1 — Choose Your Dataset
 
-**Dataset Name:**  
-**Source / Link:**  
+**Dataset Name:**     World Data
+**Source / Link:**   [text](src/worldData.csv)
 
 **What this dataset contains (2–3 sentences):**  
-____________________________________________________________________  
-____________________________________________________________________  
-
+the dataset contains all of the data of every country in the world where it measures, birth rate,
+death rate, phone usage, and etc.
 ---
 
 ## ❓ Step 2 — Write Your Guiding Question
@@ -80,8 +79,8 @@ ____________________________________________________________________
 Your guiding question should be something you can answer using your dataset.
 
 **My guiding question:**  
-____________________________________________________________________  
-____________________________________________________________________  
+
+Is mobile phone usage greater in the western or eastern hemisphere? 
 
 Examples:
 
@@ -105,7 +104,7 @@ You must create a class that represents **one row** of your dataset.
 
 ### ✏ Include your class diagram
 
-
+https://drive.google.com/file/d/1KZ4vIuDB7SOilwKGcdOgpS1C8TSX_9We/view?usp=sharing 
 ---
 
 ## 📥 Step 4 — Read Your CSV File Using Scanner
@@ -145,8 +144,8 @@ You must write **at least two algorithms** to analyze your dataset.
 
 **Algorithms I will implement:**
 
-1. __________________________________________  
-2. __________________________________________  
+1. Filter by category  
+2. Count items matching a condition  
 
 Optional extras:  
 - Sorting  
@@ -165,13 +164,13 @@ After analyzing your objects, print:
 - ✔ A clear answer to your guiding question  
 
 **My findings:**  
-____________________________________________________________________  
+Depending on how many samples the user gets. 
 ____________________________________________________________________  
 ____________________________________________________________________  
 
 **My answer to the guiding question:**  
-____________________________________________________________________  
-____________________________________________________________________  
+On Average, the Western Hemisphere population in the random sample uses their phone a lot more
+than compared to the population in the Eastern Hemisphere 
 
 ---
 
@@ -218,11 +217,9 @@ Write a short reflection (3–5 sentences):
 - How trustworthy are your insights?
 
 **My reflection:**  
-____________________________________________________________________  
-____________________________________________________________________  
-____________________________________________________________________  
-____________________________________________________________________  
-
+Because this is not an experiment, we can not say that if you live in the western hemisphere of the world, your phone usage will increase. We 
+can only correlate that if you live in the western hemisphere, your phone usage will typically be higher than those who live in the eastern hemisphere.
+my dataset could have bias as I was the one that set up what is the western hemisphere and what is eastern hemisphere.
 ---
 
 ## ⭐ Optional Challenges (Not Required but Fun!)
